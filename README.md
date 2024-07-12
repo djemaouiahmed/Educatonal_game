@@ -4,7 +4,7 @@
 This repository contains the code and resources for an educational game. The game is designed to be engaging and fun, while also providing educational value.
 
 ## Preview:
-[![Watch the video](https://github.com/djemaouiahmed/Educatonal_game/raw/main/preview-video/thumbnail.png)]
+![Watch the video](preview-video/Jeu pour enfant! 2024-01-11 15-42-59.mp4).
 ## Getting Started
 To get started with the project, clone the repository and navigate to the source directory:
 ```
