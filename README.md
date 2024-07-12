@@ -4,7 +4,7 @@
 This repository contains the code and resources for an educational game. The game is designed to be engaging and fun, while also providing educational value.
 
 ## Preview:
-[![Watch the video](https://github.com/djemaouiahmed/Educatonal_game/raw/main/preview-video/thumbnail.png)](https://www.youtube.com/watch?v=example)
+[![Watch the video](https://github.com/djemaouiahmed/Educatonal_game/raw/main/preview-video/thumbnail.png)]
 ## Getting Started
 To get started with the project, clone the repository and navigate to the source directory:
 ```
